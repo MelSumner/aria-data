@@ -1,0 +1,90 @@
+{
+    "roles": {
+        "abstract": [
+            "command",
+            "composite",
+            "input",
+            "landmark",
+            "range",
+            "roletype",
+            "section",
+            "sectionhead",
+            "select",
+            "structure",
+            "widget",
+            "window"
+        ],
+        "widget": [{
+            "standalone user interface": [
+                "alert",
+                "alertdialog",
+                "button",
+                "checkbox",
+                "dialog",
+                "gridcell",
+                "link",
+                "log",
+                "marquee",
+                "menuitem",
+                "menuitemcheckbox",
+                "menuitemradio",
+                "option",
+                "progressbar",
+                "radio",
+                "scrollbar",
+                "slider",
+                "spinbutton",
+                "status",
+                "tab",
+                "tabpanel",
+                "textbox",
+                "timer",
+                "tooltip",
+                "treeitem"
+            ]
+        }, {
+            "composite user interface": [
+                "combobox",
+                "grid",
+                "listbox",
+                "menu",
+                "menubar",
+                "radiogroup",
+                "tablist",
+                "tree",
+                "treegrid"
+            ]
+        }],
+        "document structure": [
+            "article",
+            "columnheader",
+            "definition",
+            "directory",
+            "document",
+            "group",
+            "heading",
+            "img",
+            "list",
+            "listitem",
+            "math",
+            "note",
+            "presentation",
+            "region",
+            "row",
+            "rowgroup",
+            "rowheader",
+            "separator",
+            "toolbar"
+        ],
+        "landmark": [
+            "application",
+            "banner",
+            "complementary",
+            "contentinfo",
+            "form",
+            "main",
+            "navigation",
+            "search"
+        ]
+    }
+}
